@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93179418633",
+    "project_id": "tafakari-f8dc5",
+    "storage_bucket": "tafakari-f8dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93179418633:android:dbb83e1429e0c4c90ec0d8",
+        "android_client_info": {
+          "package_name": "com.example.tafakari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93179418633-h3gkca7ojgujiqkp95ci9tcujfigirjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB9GN3yBypJflJrNk0SKMouG--N8Eo8Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93179418633-h3gkca7ojgujiqkp95ci9tcujfigirjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
