@@ -3,8 +3,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 import 'package:tafakari/screens/tafakariScreen.dart';
 import 'package:tafakari/screens/salaScreen.dart';
-import 'package:tafakari/screens/aboutScreen.
-dart';
+import 'package:tafakari/screens/aboutScreen.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
